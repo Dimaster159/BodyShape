@@ -1,0 +1,27 @@
+/* Base */
+@import "./base/base.css";
+@import "./base/reset.css";
+/* Blocks */
+@import "./blocks/header.css";
+@import "./blocks/section.css";
+@import "./blocks/card-treiner.css";
+@import "./blocks/section-beast.css";
+@import "./blocks/card-group.css";
+@import "./blocks/contacts.css";
+@import "./blocks/form.css";
+@import "./blocks/footer.css";
+
+/* Button */
+
+@import "./blocks/button.css";
+
+/* Fonts */
+@font-face {
+    font-family: "Bebas_Neue";
+    src: url(/fonts/Bebas_Neue/BebasNeueCyrillic.woff2) format(woff2);
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(/fonts/Roboto/Roboto-Light.woff2) format(woff2);
+}
